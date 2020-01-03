@@ -26,7 +26,7 @@ select语句在抽出数据时，可以对语句设置更多的选项，已得�
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnPostgreSql
+https://github.com/komavideo/LearnPostgreSql
 
 ## 小马视频频道
 
