@@ -33,7 +33,7 @@
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnPostgreSql
+https://github.com/komavideo/LearnPostgreSql
 
 ## 小马视频频道
 
