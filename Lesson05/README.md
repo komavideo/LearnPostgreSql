@@ -33,7 +33,7 @@ primary key(not null, unique):主键，不能为空，且不能重复
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnPostgreSql
+https://github.com/komavideo/LearnPostgreSql
 
 ## 小马视频频道
 
