@@ -28,7 +28,7 @@ https://www.postgresql.org/docs/9.5/static/functions.html
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnPostgreSql
+https://github.com/komavideo/LearnPostgreSql
 
 ## 小马视频频道
 
